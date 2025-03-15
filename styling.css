@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+    margin-left: 5px;
+
+}
+h1{
+    color: burlywood;
+    text-align: center;
+    text-decoration: underline dashed;
+    text-shadow: 10px;
+    height: max-content;
+}
+h3{
+    color: green;
+}
+input{
+    outline: 2px solid green;
+    border: 2px solid palegoldenrod;
+}
+button{
+    color: red;
+    outline: 3px solid peachpuff;
+    border: 2px solid grey;
+}
+p{
+    width: max-content;
+    height: max-content;
+    border: 5px solid gray;
+    margin: 4px;
+    padding: 5px;
+    overflow:auto;
+    color: indigo;
+}
